@@ -47,27 +47,22 @@ margin: 0 auto;
 .selecao{
     width:100px;
     height: 100px;
+    font-size: 18px;
+    font-family: 18px;
 }
 .corpo{
-margin: 100px;
+height: 1000px;
 color: white;
 font-family: sans-serif;
 text-align: center;
+font-size: 30px;
+
 
 background-image: linear-gradient(to top,
 rgba(0, 0, 0, 0.8) 0,
 rgba(0, 0, 0, 0) 60%,
 rgba(0, 0, 0, 0.8) 100%);
 }
-
-
-
-
-
-
-h1{
-    color: white;
-    padding: 20px;
-    text-align: center;
-    
+.letra {
+    padding: 400px;
 }
