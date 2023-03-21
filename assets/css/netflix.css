@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url('../img/netflix\ \(1\).png');
+background-size: cover;
+background-position: top center;
+}
+#heading{
+    background-color:  rgba(0, 0, 0, 0.8);
+}
+ #heading div{
+width: 90%;
+display: flex;
+justify-content: space-between;
+margin: 0 auto;
+ }
+
+ #heading h1{
+    padding: 15px 0;
+    font-size: 20px;
+    text-transform: uppercase;
+ }
+
+ #heading a{
+    color:blanchedalmond;
+    font-family: sans-serif;
+    text-decoration: none;
+ }
+.logo {
+    width: 175px;
+}
+
+#heading .h1{
+    margin-top: 15px;
+    margin-bottom: 0;
+
+}
+
+.botao{
+    background: red;
+    padding: 10px;
+}
+
+.selecao{
+    width:100px;
+    height: 100px;
+}
+.corpo{
+margin: 100px;
+color: white;
+font-family: sans-serif;
+text-align: center;
+
+background-image: linear-gradient(to top,
+rgba(0, 0, 0, 0.8) 0,
+rgba(0, 0, 0, 0) 60%,
+rgba(0, 0, 0, 0.8) 100%);
+}
+
+
+
+
+
+
+h1{
+    color: white;
+    padding: 20px;
+    text-align: center;
+    
+}
